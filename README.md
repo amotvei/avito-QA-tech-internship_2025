@@ -4,7 +4,6 @@
 
 [Ответ на это задание здесь!](taskOne/BugReport.md)
 
-![](taskOne/taskOnePage/taskOnePages.jpg)
 
 # Задание 2.1.
 
