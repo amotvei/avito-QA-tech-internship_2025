@@ -33,3 +33,10 @@ taskTwo/
 ├── TESTCASES.md               # Подробное описание тест-кейсов
 └── helpers.js             
 ```
+
+1. **Клонирование репозитория**
+   Откройте терминал и выполните команду:
+   ```
+    git clone https://github.com/amotvei/avito-QA-tech-internship_2025.git
+   ```
+   
