@@ -31,6 +31,8 @@ taskTwo/
 │
 ├── BUGS.md                    # Описание найденных багов
 ├── TESTCASES.md               # Подробное описание тест-кейсов
+├──package-lock.json
+├──package.json
 └── helpers.js             
 ```
 
@@ -40,9 +42,25 @@ taskTwo/
    ```
     git clone https://github.com/amotvei/avito-QA-tech-internship_2025.git
    ```
-2. **Переход в каталог проекта**:
+
+2. **Переход в каталог проекта**
 
 Перейдите в директорию проекта:
 ```
-cd avito-QA-tech-internship_2025
-```   
+cd avito-QA-tech-internship_2025/taskTwo
+```
+
+3. **Установка зависимостей**
+
+В директории проекта запустите следующую команду, чтобы установить все библиотеки, указанные в package.json 
+```
+npm install
+```
+
+4. Запустить тестирование
+```
+npm test
+
+```
+   
+
